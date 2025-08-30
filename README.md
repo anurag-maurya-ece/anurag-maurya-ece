@@ -1,8 +1,8 @@
 # ⚡ Hi there, I'm Anurag Maurya ⚡
-
-![Zenitsu Header](https://i.imgur.com/your-anime-header.gif) <!-- Zenitsu gif or lightning animation -->
-
-### 🎓 Student at Netaji Subhas University of Technology (NSUT)
+<div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwMnBncXlpemVzN2JmYXlxNDlkcDRqN3V0dGQ5dncwZHNhNjVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTn01fiFdTd5pL60ln/giphy.gif" width="480" height="269"/>
+</div>
+ 🎓 Student at Netaji Subhas University of Technology (NSUT)
 1st Year, ECE Section 1 | Aspiring Web Developer
 
 ---
@@ -39,14 +39,7 @@
 </div>
 
 
----
 
-
-### 🎵 Spotify Vibes
-
-<div align="center">
-[![Spotify Playlist](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
-</div>
 
 
 ---
