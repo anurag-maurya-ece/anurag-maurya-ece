@@ -31,27 +31,42 @@
 ---
 
 ### 📊 GitHub Stats
+
+
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anurag-maurya-ece&show_icons=true&hide_title=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-maurya-ece&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=anurag-maurya-ece&show_icons=true&hide_title=true&theme=radical" alt="Anurag's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag-maurya-ece&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+
 
 ---
 
-### 🎵 Spotify Currently Playing
+
+### 🎵 Spotify Vibes
+
 <div align="center">
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_userid&cover_image=true&theme=novatorem)](https://open.spotify.com/user/your_spotify_userid)
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-Listen-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
 </div>
+
 
 ---
 
 ### 📣 Social Links
+
 <div align="center">
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white"/></a>
-<a href="https://discord.com/users/yourdiscordid"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+ 
+  <a href="https://linkedin.com/in/anurag-maurya-nsut">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anurag_maurya21">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
+ 
 </div>
+
 
 ---
 
