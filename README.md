@@ -8,13 +8,12 @@
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently building anime-inspired web apps  
-- 🌱 Learning React.js, Tailwind CSS & AI integration  
+- 🔭 I’m currently in learning phase
+- 🌱 Learning web development  
 - 👯 Looking to collaborate on creative frontend projects  
-- 🤔 Fun fact: ⚡ I channel my inner Zenitsu – lightning-fast when inspiration strikes  
-- 💬 Ask me about JavaScript, Python & Anime  
-- 📫 Reach me: [Email](mailto:your-email@example.com)  
-- 🎵 Music vibes: Check my Spotify below!  
+- 🤔 Fun fact: ⚡ I channel my inner Zenitsu – lightning-fast when inspiration strikes      
+- 📫 Reach me: [Email](mailto:anuragmaurya2145@gmail.com)  
+ 
 
 ---
 
