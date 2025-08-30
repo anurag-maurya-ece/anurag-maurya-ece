@@ -1,6 +1,6 @@
 # ⚡ Hi there, I'm Anurag Maurya ⚡
 <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjgwMnBncXlpemVzN2JmYXlxNDlkcDRqN3V0dGQ5dncwZHNhNjVxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fTn01fiFdTd5pL60ln/giphy.gif" width="480" height="269"/>
+<img src="/Demonslayer Zenitsu GIF.gif" height="269"/>
 </div>
  🎓 Student at Netaji Subhas University of Technology (NSUT)
 1st Year, ECE Section 1 | Aspiring Web Developer
