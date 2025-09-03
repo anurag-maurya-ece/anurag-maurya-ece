@@ -3,7 +3,7 @@
 <img src="/Demonslayer Zenitsu GIF.gif" height="269"/>
 </div>
  🎓 Student at Netaji Subhas University of Technology (NSUT)
-1st Year, ECE Section 1 | Aspiring Web Developer
+1st Year, ECE  | Aspiring Web Developer
 
 ---
 
